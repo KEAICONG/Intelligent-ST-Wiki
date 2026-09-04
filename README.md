@@ -75,3 +75,7 @@
 最后，推荐一首歌（私货）：
 
 [《先生、人生▇▇です。》](https://www.bilibili.com/video/BV1Xdpze7Ej5/)
+
+# 友情链接
+
+[不白学姐的智科指南](https://github.com/Jaserrr/Intelligent-ST-Wiki)
